@@ -48,3 +48,20 @@ This project allows users to **add, edit, delete, and persist tasks** using **Lo
 ## Preview
 <img width="1366" height="690" alt="image" src="https://github.com/user-attachments/assets/91ead643-6677-406a-a383-72194df9f70e" />
 
+---
+
+**🙋‍♀️ Author**
+
+## Manaswini Sasmal
+
+📲 - 6370094643
+
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
+
