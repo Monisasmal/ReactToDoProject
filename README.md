@@ -50,9 +50,7 @@ This project allows users to **add, edit, delete, and persist tasks** using **Lo
 
 ---
 
-**🙋‍♀️ Author**
-
-## Manaswini Sasmal
+## 🙋‍♀️ Author -  Manaswini Sasmal
 
 📲 - 6370094643
 
